@@ -6,12 +6,16 @@
     "Michael Bromley <michael@michaelbromley.co.uk>"
   ],
   "description": "Magical automatic pagination for anything in AngularJS",
-  "main": ["dirPagination.js", "dirPagination.tpl.html"],
+  "main": [
+    "dirPagination.js",
+    "dirPagination.tpl.html"
+  ],
   "moduleType": [
     "globals"
   ],
   "dependencies": {
-    "angular": ">=1.1.4"
+    "angular": ">=1.1.4",
+    "sfly-scalyr": "~1.0.6"
   },
   "keywords": [
     "angularjs",
