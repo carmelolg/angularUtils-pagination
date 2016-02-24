@@ -139,7 +139,7 @@
                 attrs.$set('ngRepeatStart', repeatExpression);
                 element.eq(element.length - 1).attr('ng-repeat-end', true);
             } else {
-                attrs.$set('ngRepeat', repeatExpression);
+                attrs.$set('slyRepeat', repeatExpression);
             }
         }
 
