@@ -1,6 +1,9 @@
 #NOTE
 My fork change ngRepeat with slyRepeat for increase performance with large data
 
+##Warning!!
+sfly-scalyr dependency no more available on bower :( 
+
 # angular-utils-pagination
 
 This repo contains only the release version of the dirPagination module from my
